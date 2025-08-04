@@ -103,7 +103,7 @@ See [CLI_INTEGRATION.md](CLI_INTEGRATION.md) for complete setup instructions.
 - 💻 **Multiple Interfaces**: CLI, MCP, and programmatic access
 - 🔒 **Enterprise Security**: SSRF protection, rate limiting, validation
 - 🚀 **Production Ready**: Error handling, resumption, diagnostics
-- 🆓 **Completely Free**: Apache 2.0 license, no restrictions
+- 🆓 **Completely Free**: CC0 1.0 Universal (Public Domain), no restrictions
 
 ## 📞 Support
 

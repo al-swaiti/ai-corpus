@@ -9,7 +9,7 @@ This guide helps you publish the Ultimate MCP Documentation Server to GitHub for
 
 ### ✅ Project Status
 - [x] **Arabic Islamic dedication** added to README
-- [x] **Apache 2.0 license** for free global usage
+- [x] **CC0 1.0 Universal (Public Domain)** for free global usage
 - [x] **CLI integration** with Gemini and Claude
 - [x] **Comprehensive documentation** in multiple languages
 - [x] **Production-ready code** with 1,678+ lines
@@ -20,7 +20,7 @@ This guide helps you publish the Ultimate MCP Documentation Server to GitHub for
 - [x] `README.md` - Main project documentation with Islamic dedication
 - [x] `CLI_INTEGRATION.md` - Complete CLI integration guide
 - [x] `GLOBAL_README.md` - Multi-language quick start
-- [x] `LICENSE` - Apache 2.0 license
+- [x] `LICENSE` - CC0 1.0 Universal (Public Domain)
 - [x] `CHANGELOG.md` - Version history with Islamic dedication
 - [x] `CONTRIBUTING.md` - Development guidelines
 - [x] `USAGE.md` - Detailed usage instructions
@@ -37,7 +37,7 @@ git add .
 git commit -m "feat: initial release - Ultimate MCP Documentation Server
 
 ✨ بسم الله الرحمن الرحيم - Islamic dedication
-🌍 Free for all humanity under Apache 2.0 license
+🌍 Free for all humanity under CC0 1.0 Universal (Public Domain)
 🤖 Full integration with Gemini CLI and Claude CLI
 🧠 Intelligent documentation scraping and AI search
 ⚡ Production-ready with 10-10K+ page scaling
@@ -58,7 +58,7 @@ Made with ❤️ for the global developer community
    - **Name**: `ultimate-mcp-documentation-server`
    - **Description**: `🌍 خادم ذكي موحد للوثائق | Ultimate MCP server for intelligent documentation scraping and AI-powered search | Free for all humanity`
    - **Visibility**: **Public** ✅
-   - **License**: Apache License 2.0 ✅
+   - **License**: CC0 1.0 Universal (Public Domain) ✅
    - **DO NOT** initialize with README (you have one)
 
 ### 3. Configure Repository
@@ -91,13 +91,13 @@ global, islamic, multilingual, production-ready, async, webscraping
 > ﴿يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ﴾  
 > (سورة التغابن، الآية 1)
 
-**الحمد لله العليم الحكيم** - This project is dedicated to Allah (SWT) and made **free for all humanity** under Apache 2.0 license.
+**الحمد لله العليم الحكيم** - This project is dedicated to Allah (SWT) and made **free for all humanity** under CC0 1.0 Universal (Public Domain).
 
 ## 🚀 What's New
 
 ### ✨ Islamic Values & Global Access
 - **🕌 Islamic dedication** - Project blessed with Islamic principles
-- **🌍 Free for all** - Apache 2.0 license, no restrictions
+- **🌍 Free for all** - CC0 1.0 Universal (Public Domain), no restrictions
 - **🤝 Global community** - Multi-language support and worldwide accessibility
 
 ### 🧠 Ultimate AI Features
@@ -158,7 +158,7 @@ python ultimate_mcp_server.py --scrape https://docs.python.org/ --max-pages 50
 ---
 
 **Made with ❤️ for the global developer community**  
-**Free for all humanity - Apache 2.0 License**
+**Free for all humanity - CC0 1.0 Universal (Public Domain)**
 ```
 
 ## 🌟 Post-Publication Steps
@@ -171,7 +171,7 @@ Replace `YOUR-USERNAME` with your actual GitHub username in:
 
 ### 2. Add GitHub Badges
 Your README already includes these badges:
-- [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+- [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 - [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 - [![Model Context Protocol](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io/)
 

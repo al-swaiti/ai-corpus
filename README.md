@@ -17,7 +17,7 @@
 
 > **THE ONE** MCP server that handles ANY documentation website automatically with intelligent scraping and AI-powered search.
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io/)
 [![Free for All](https://img.shields.io/badge/Free-For%20All-brightgreen.svg)](https://github.com/your-username/ultimate-mcp-docs)
@@ -369,7 +369,7 @@ export MCP_LOG_LEVEL=DEBUG
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is dedicated to the public domain under CC0 1.0 Universal - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
